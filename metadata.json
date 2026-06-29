@@ -1,0 +1,6 @@
+{
+  "name": "ISRO Intelligence",
+  "description": "AI-powered Space Weather Monitoring & Decision Support Platform utilizing real-time Aditya-L1 solar observational data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
